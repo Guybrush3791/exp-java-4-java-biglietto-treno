@@ -29,6 +29,7 @@ public class CibiPreferiti {
 		
 		// BONUS: VERSIONE 2
 		System.out.println("-----------------------------");
+		
 		int medianIndex = bestFoodLng / 2;
 		String medianFoodLow = bestFood[medianIndex];
 		System.out.println("Cibo mediano low: " + medianFoodLow);
